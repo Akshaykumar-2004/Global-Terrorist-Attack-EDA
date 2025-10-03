@@ -70,9 +70,8 @@ This project was conducted in a **Python 3.x** environment, using:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-
-   📌 Disclaimer
-
+   
+📌 Disclaimer
 This project is for educational and research purposes only. The analysis is based on publicly available data and aims to promote understanding of global terrorism patterns through data science.
 
 
